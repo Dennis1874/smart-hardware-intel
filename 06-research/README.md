@@ -17,9 +17,12 @@
 ## 重要论文追踪
 
 ### 2026 年重点论文
-| 标题 | 机构 | 会议/期刊 | 日期 | 摘要 |  relevance |
+| 标题 | 机构 | 会议/期刊 | 日期 | 摘要 | relevance |
 |------|------|----------|------|------|-----------|
-| *待添加* | - | - | - | - | - |
+| VEGA-3D: Video Extracted Generative Awareness | Wu et al. | arXiv | 2026-03-19 | 利用视频生成模型的隐式空间先验，无需显式 3D 监督即可增强 MLLM 的几何理解能力 | 🔴 高 |
+| Not All Features Are Equal: VLA Mechanistic Study | Grant et al. | arXiv | 2026-03-19 | 对视觉 - 语言 - 动作模型的大规模机制研究，揭示视觉通路在动作生成中的主导作用 | 🔴 高 |
+| Matryoshka Gaussian Splatting | Guo et al. | arXiv | 2026-03-19 | 连续级别细节 (LoD) 的 3D 高斯泼溅训练框架，不牺牲全容量渲染质量 | 🟡 中 |
+| MonoArt: Monocular Articulated 3D Reconstruction | Li et al. | arXiv | 2026-03-19 | 单目铰接 3D 重建的统一框架，基于渐进式结构推理 | 🟡 中 |
 
 ---
 
